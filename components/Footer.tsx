@@ -45,14 +45,27 @@ export default function Footer() {
                 LinkedIn
               </a>
             </li>
+            
             <li>
               <a
                 href="mailto:anuj152002@gmail.com"
                 className="hover:text-primary transition-colors"
               >
-                Email
+                anuj152002@gmail.com
               </a>
             </li>
+            
+            <li>
+      <a
+        href="https://wa.me/919039666979?text=Hi%20Anuj,%20I%20came%20across%20your%20website%20and%20wanted%20to%20connect."
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:text-primary transition-colors"
+      >
+        💬 WhatsApp
+      </a>
+    </li>
+
           </ul>
         </div>
       </div>
