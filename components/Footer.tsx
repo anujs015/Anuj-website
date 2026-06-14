@@ -47,7 +47,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="mailto:anuj152002@example.com"
+                href="mailto:anuj152002@gmail.com"
                 className="hover:text-primary transition-colors"
               >
                 Email
