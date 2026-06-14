@@ -46,25 +46,34 @@ export default function Footer() {
               </a>
             </li>
             
-            <li>
-              <a
-                href="mailto:anuj152002@gmail.com"
-                className="hover:text-primary transition-colors"
-              >
-                anuj152002@gmail.com
-              </a>
-            </li>
-            
-            <li>
-      <a
-        href="https://wa.me/919039666979?text=Hi%20Anuj,%20I%20came%20across%20your%20website%20and%20wanted%20to%20connect."
-        target="_blank"
-        rel="noopener noreferrer"
-        className="hover:text-primary transition-colors"
-      >
-        💬 WhatsApp
-      </a>
-    </li>
+           <li>
+  <a
+    href="mailto:anuj152002@gmail.com"
+    className="hover:text-primary transition-colors"
+  >
+    📧 anuj152002@gmail.com
+  </a>
+</li>
+
+<li>
+  <a
+    href="tel:+919039666979"
+    className="hover:text-primary transition-colors"
+  >
+    📞 +91 90396 66979
+  </a>
+</li>
+
+<li>
+  <a
+    href="https://wa.me/919039666979?text=Hi%20Anuj,%20I%20came%20across%20your%20website%20and%20wanted%20to%20connect."
+    target="_blank"
+    rel="noopener noreferrer"
+    className="hover:text-primary transition-colors"
+  >
+    💬 WhatsApp
+  </a>
+</li>
 
           </ul>
         </div>
