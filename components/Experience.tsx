@@ -85,10 +85,10 @@ export default function Experience() {
             <h3 className="font-display font-bold text-xl text-text">
               Business Development Executive — ERP Presales, Emipro Technologies
             </h3>
-            <span className="text-sm text-grey">Jan 2025 – Apr 2026</span>
+            <span className="text-sm text-grey">Oct 2024 – Apr 2026</span>
           </div>
           <p className="text-grey text-sm mb-5">
-            This wasn&apos;t a typical sales role. It was where I learned that
+            Joined Emipro(It was my on campus placment) through a three month training program and transitioned into a full time ERP Presales role. This wasn&apos;t a typical sales role. It was where I learned that
             the best presales conversations don&apos;t start with a demo —
             they start with a question about how the customer&apos;s business
             runs today.
