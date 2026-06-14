@@ -25,7 +25,7 @@ export default function FinalCTA() {
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:anuj152002@example.com"
               className="inline-flex items-center gap-2 rounded-full bg-white text-primary text-sm font-medium px-6 py-3 hover:bg-accent transition-colors"
             >
               <Mail size={16} />
