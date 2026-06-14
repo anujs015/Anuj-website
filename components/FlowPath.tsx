@@ -50,17 +50,17 @@ export default function FlowPath() {
           );
         })}
       </svg>
-      <div className="flex justify-between px-2 -mt-16 relative">
+      <div className="grid grid-cols-3 px-2 -mt-16 relative">
         {nodes.map(({ Icon, label }, i) => (
           <motion.div
             key={label}
-            className="flex flex-col items-center gap-2"
+            className="flex flex-col items-center justify-center gap-2 w-full"
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4, delay: 0.3 + i * 0.25 }}
           >
             <Icon size={22} className="text-primary" />
-            <span className="text-xs font-medium text-grey">{label}</span>
+            <span className="text-xs font-medium text-grey text-center leading-none">{label}</span>
           </motion.div>
         ))}
       </div>
